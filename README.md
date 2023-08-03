@@ -1,6 +1,6 @@
 # task4:
 
-Programming a web page This page does a "Get" of any integer number and then stores this number in a database.
+Programming a web page This page does a "Get" of any  number and then stores this number in a database.
 
 OUTPUT:
 ![IMG_8869](https://github.com/waadx9/task4/assets/139132148/d2919e14-b5d0-4e9b-9877-9cc999e259a8)
